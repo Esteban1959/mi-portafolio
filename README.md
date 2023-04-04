@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Análisis de Datos y Aplicaciones con Python, Django, PHP**
 
-- 🌱 I’m currently learning **Frameworks, RStudio**
+- 🌱 I’m currently learning **Frameworks, RStudio, Vim**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Esteban1959/mi-portafolio/blob/main/README.md](https://github.com/Esteban1959/mi-portafolio/blob/main/README.md)
 
