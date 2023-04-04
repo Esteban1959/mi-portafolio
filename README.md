@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Soy Esteban López Martínez</h1>
 <h3 align="center">Ingeniero en Desarrollo de Software, Analista de Datos, ...</h3>
 
-- 🔭 I’m currently working on **Análisis de Datos y Aplicaciones con Python, Django, PHP**
+- 🔭 I’m currently working on **Análisis de Datos y Aplicaciones con Python, Django, PHP, MySQL, HTML, CSS**
 
 - 🌱 I’m currently learning **Frameworks, RStudio, Vim**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Esteban1959/mi-portafolio/blob/main/README.md](https://github.com/Esteban1959/mi-portafolio/blob/main/README.md)
 
-- 📫 How to reach me **corlumar@prodigy.net.mx; corlumar@hotmail.com**
+- 📫 How to reach me **corlumar@outlook.com; corlumar@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
